@@ -1,0 +1,2 @@
+FROM yongjhih/parse-server
+
